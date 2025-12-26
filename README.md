@@ -1,6 +1,4 @@
-# 📄 Persona-Driven Document Intelligence
-> **Adobe Hackathon – Round 1B**
-> Theme: “Connect What Matters — For the User Who Matters”
+# 📄 Relevance Forge: Persona-Driven Document Intelligence
 
 ---
 ## 🚀 Overview
